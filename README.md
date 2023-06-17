@@ -5,8 +5,6 @@
 
 - 🌱 Currently learning **Pygame, Tkinter, CustomTkinter, and Tailwind CSS**
 
--
-
 - ⚡ Fun fact **The first actual project I made was a discord bot.**
 
 <h3 align="left">Connect with me:</h3>
