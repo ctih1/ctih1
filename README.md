@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, I’m ctih1</h1>
 <h3 align="center">Bad Python programmer</h3>
 
-- 🔭 I’m currently working on [🛑 Fuck Capitalism Jam 2023](https://github.com/ctih1/FuckCapitalismJam2023)
+- 🔭 Currently working on [🛑 Fuck Capitalism Jam 2023](https://github.com/ctih1/FuckCapitalismJam2023)
 
-- 🌱 I’m currently learning **Pygame, Tkinter, CustomTkinter, and Tailwind CSS**
+- 🌱 Currently learning **Pygame, Tkinter, CustomTkinter, and Tailwind CSS**
 
-- 📫 How to reach me **ctih#3462 or @ctih on discord**
+-
 
 - ⚡ Fun fact **The first actual project I made was a discord bot.**
 
