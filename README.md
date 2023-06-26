@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [🛑 Fuck Capitalism Jam 2023](https://github.com/ctih1/FuckCapitalismJam2023)
 
-- 🌱 Currently learning **Pygame, Tkinter, CustomTkinter, and CSS**
+- 🌱 Currently learning **Java, Pygame, Tkinter, CustomTkinter, and CSS**
 
 - ⚡ Fun fact **The first actual project I made was a discord bot.**
 
