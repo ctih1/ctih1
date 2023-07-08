@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I’m ctih1</h1>
 <h3 align="center">Bad Python programmer</h3>
 
-- 🔭 Currently working on [Bunch Of Random Shit](https://github.com/ctih1/FuckCapitalismJam2023](https://github.com/ctih1/bors)
+- 🔭 Currently working on [Bunch Of Random Shit](https://github.com/ctih1/bors)
 
 - 🌱 Currently learning **Java, Pygame, Tkinter, CustomTkinter, and CSS**
 
