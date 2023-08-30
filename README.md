@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [Bunch Of Random Shit](https://github.com/ctih1/bors)
 
-- 🌱 Currently learning **Java, Pygame, Tkinter, CustomTkinter, and CSS**
+- 🌱 Currently learning **Java, JavaFX, Scenebuilder**
 
 - ⚡ Fun fact **The first actual project I made was a discord bot.**
 
