@@ -1,0 +1,175 @@
+html {
+    background-color: #161616;
+    scroll-behavior: smooth;
+}
+
+.container {
+    max-width: 100rem;
+    margin-inline: auto;
+    padding-inline:2rem;
+}
+
+body {
+    padding: 2rem 0;
+}
+
+.items {
+    display: grid;
+    grid-template-columns:
+        repeat(auto-fit,minmax(15rem,1fr));
+    grid-row: auto / span 2;
+    grid-auto-flow: row dense;
+    gap: 1rem;
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.2s ease;
+    box-shadow: rgba(73, 73, 77, 0.2) 0px 7px 29px 0px;
+    border-radius: 1vh;
+    padding-right: 1vh;
+    padding: 1vh;
+
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card_image {
+    width: 100%;
+    max-width: 100%;
+    max-height:100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 1vh;
+    box-shadow: rgba(73, 73, 77, 0.2) 0px 7px 29px 0px;
+    opacity: 1;
+    overflow: hidden;
+    transition: opacity 0.25s;
+}
+
+#devices {
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+img,picture {
+    max-width: 100%;
+    display:block;
+    object-fit: cover;
+}
+
+p,h1,h2,h3,h4,h5,h6, a {
+    color: white;
+}
+
+.card_image iframe {
+    overflow: hidden;
+}
+
+.devices {
+    grid-column: auto / span 2;
+}
+
+.devices .card_image {
+    aspect-ratio: 16/9;
+}
+
+.gif .card_image {
+    aspect-ratio: 16/9;
+}
+
+.pfp {
+    grid-column: auto / span 2;
+}
+
+.card:hover{
+    transform: translateY(-1vh);
+    box-shadow: rgba(100, 100, 111, 0.8) 0px 7px 29px 0px;
+}
+
+.sm {
+    font-size: larger;
+}
+
+.themes .card_image {
+    aspect-ratio: 16/9;
+}
+
+.comment {
+    height: 100%;
+    width: 200%;
+}
+
+.comments {
+    height: 50%;
+}   
+.svg {
+    filter: invert(100%) sepia(21%) saturate(74%) hue-rotate(72deg) brightness(107%) contrast(104%);
+}
+
+.card_content_download {
+    height:90%;
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    transition: opacity 1s ease-in-out;
+    overflow: hidden;
+}
+
+#review {
+    font-size: x-large;
+    text-align: center;
+}
+
+.card_button{ /* source: https://getcssscan.com/css-buttons-examples (24)  */
+    background-color:#272727;
+    transition: box-shadow 0.2s ease;
+    border-radius: 1vh;
+    width:90%;
+    border-width: 0px;
+    height:8vh;
+    color:white;
+    font-size: 1.5rem;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(73, 73, 77, 0.2) 0px 7px 29px 0px;
+    border: none;
+    margin:5%;
+    border-style: none;
+    font-size:auto;
+    text-align: center;
+    align-items: center;
+}
+
+.likeButton {
+
+    background-color:#272727;
+    transition: box-shadow 0.2s ease;
+    border-radius: 1vh;
+    width:100%;
+    border-width: 0px;
+    height:4vh;
+    color:white;
+    font-size: 1.5rem;
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(73, 73, 77, 0.2) 0px 7px 29px 0px;
+    border: none;
+    border-style: none;
+    font-size:auto;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+.inp {
+    font-size: x-large;
+}
+
+.card_button:hover {    
+    box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Button</title>
+</head>
+<body>
+    <div class="container">
+        <div class="items">
+            <div class="card pfp" id="main_image">
+                <img class="card_image" draggable="false" src="https://i.ibb.co/R7vtGCx/s4hype-profile.jpg" onmouseover="hover(this);" onmouseout="hoverOut(this);">
+                <div class="card_content" id="main_text">
+                    <h1 class="card_text">About me</h1>
+                    <p class="card_text">A TechToker & A bad programmer</p>
+                </div>
+            </div>
+            <div class="card devices" id="devices">
+                <img class="card_image" draggable="false" id="devices" frameborder="0" src="https://i.ibb.co/Vjyb0Zb/The-Best-Phones-to-buy-in-2023-our-top-10-list.jpg" allowfullscreen="">
+                <div class="card_content">
+                    <h1 class="card_text">Devices</h1>
+                    <h2 class="card_text">current main: iPhone XS</h2>
+                    <p class="card_text">Full list of my devices can be found <a target="_blank" href="https://pastebin.com/9zXUaZFA">here</a></p>
+                </div>
+            </div>
+
+            <div class="card contact" id="contact">
+                <img class="card_image" draggable="false" frameborder="0" src="https://storage.googleapis.com/support-kms-prod/3uxMlSDIndQDopciRurAFnprWh1EGcvBfSzD">
+                <div class="card_content">
+                    <h1 class="card_text">Contact</h1>
+                    <p class="card_text sm">Discord: @ctih</p>
+                    <p class="card_text sm">TikTok dm: @_s4hype_</p>
+                    <p class="card_text sm">TikTok dm: @_s4hype_</p>
+                </div>
+            </div>
+
+            
+
+            <div class="card schems" id="download">
+                <img class="card_image" draggable="false" frameborder="0" src="https://i.ytimg.com/vi/Q_5u56XMB7A/maxresdefault.jpg">
+                <div class="card_content download_content" id="downloadContent">
+                    <h1 class="card_text">Repairs</h1>
+                    <p class="card_text">Useful information for repairing devices</p>
+                    <button onclick="window.location='https://drive.google.com/drive/folders/1ru1t8IiK1JeEw0zHEN0s_DovGJkDCkoB?usp=sharing'" class="card_button">Go</button>
+                </div>
+            </div>
+            <div class="card comments" id="themes">
+                <div class="card_content">
+                    <h1>Comments:</h1>
+                    <p class="acomment" id="review">Loading...</p>
+                    <button onclick="toggleComment(this);" id="like" class="likeButton">Like</button>
+                    
+                </div>
+            </div>
+
+            <div class="card comment" id="themes">
+                <div class="card_content">
+                    <h1>Comment</h1>
+                    <p>Send a comment!</p>
+                    <input placeholder="Username" id="username" class="card_button inp">
+                    <input placeholder="Comment" id="comment" class="card_button inp">
+                    <button onclick="sendComment(this);" class="card_button">Send</button>
+                </div>
+            </div>
+    
+        </div>
+    </div>
+</body>
+</html>
