@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Ufopeli](https://github.com/ctih1/Ufopeli)
 
-- 📫 How to reach me **s4hype@s4hype.xyz**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
