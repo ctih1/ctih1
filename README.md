@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm ctih1</h1>
-<h3 align="center">A bad programmer</h3>
-
-- 🔭 I’m currently working on [Ufopeli](https://github.com/ctih1/Ufopeli)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
