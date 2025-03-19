@@ -16,5 +16,3 @@
 | C#, Godot | Jumpy-Ball | https://github.com/ctih1/J umpy-Ball | First mobile game |
 | Java, Spigot, CloudFlare | AutoUpdateIP | https://github.com/ctih1/AutoUpdateIP | Minecraft plugin that used Cloudflare's API |
 | Java, JavaFX, Scenebuilder | WordleCopy | https://github.com/ctih1/WordleCopy | First game made with Java |
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7Y6Q0H) 
