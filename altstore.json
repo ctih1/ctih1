@@ -12,6 +12,7 @@
         "bundleIdentifier": "site.frii.fitness",
         "developerName": "Onni Nevala",
         "subtitle": "A simple fitness tracker with no ads & subscrptions",
+        "localizedDescription": "Super simple fitness app, which has no ads, requires no internet conenction, and doesn't try to spam in app purchases down your throat",
         "iconURL": "https://github.com/ctih1/fitness-tracker/blob/master/src-tauri/icons/Square284x284Logo.png?raw=true",
         "tintColor": "#FFFFFF",
         "category": "lifestyle",
