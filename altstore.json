@@ -21,6 +21,7 @@
                 "version": "0.01",
                 "buildVersion": "8",
                 "date": "2025-01-30",
+                "size": 2119000,
                 "localizedDescription": "Initial release",
                 "downloadURL": "https://github.com/ctih1/fitness-tracker/releases/download/v0.01/fitness-tracker.ipa"
             },
@@ -28,6 +29,7 @@
                 "version": "0.02",
                 "buildVersion": "89",
                 "date": "2025-02-01",
+                "size": 2159000,
                 "localizedDescription": "Second release",
                 "downloadURL": "https://github.com/ctih1/fitness-tracker/releases/download/v0.02/fitness-tracker.ipa"
             }
