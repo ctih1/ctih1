@@ -1,0 +1,36 @@
+{
+    "name": "ctih1's project repo",
+    "subtitle": "A source for my apps",
+    "description": "Welcome to my repo. Most of my iOS apps are available here.",
+    "website": "https://www.frii.site",
+    "tintColor": "#007bff",
+    "featuredApps": [
+      "site.frii.fitness"
+    ],
+    "apps": [{
+        "name": "Fitness tracker",
+        "bundleIdentifier": "site.frii.fitness",
+        "developerName": "Onni Nevala",
+        "subtitle": "A simple fitness tracker with no ads & subscrptions",
+        "iconURL": "https://github.com/ctih1/fitness-tracker/blob/master/src-tauri/icons/Square284x284Logo.png?raw=true",
+        "tintColor": "#FFFFFF",
+        "category": "lifestyle",
+        "versions": [
+            {
+                "version": "0.01",
+                "buildVersion": "8",
+                "date": "2025-01-30",
+                "localizedDescription": "Initial release",
+                "downloadURL": "https://github.com/ctih1/fitness-tracker/releases/download/v0.01/fitness-tracker.ipa"
+            },
+            {
+                "version": "0.02",
+                "buildVersion": "89",
+                "date": "2025-02-01",
+                "localizedDescription": "Second release",
+                "downloadURL": "https://github.com/ctih1/fitness-tracker/releases/download/v0.02/fitness-tracker.ipa"
+            }
+        ]
+
+    }]
+  }
