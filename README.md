@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ctih1</h1>
 
 <div style="display: flex; flex-direction: row; align-items: center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctih1&show_icons=true&locale=en&langs_count=12&exclude_repo=Dell-Latitude-E6220-EFI&hide=css,html,C,ASL" alt="ctih1" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctih1&show_icons=true&locale=en&langs_count=8&exclude_repo=Dell-Latitude-E6220-EFI&hide=css,html,C,ASL" alt="ctih1" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctih1&show_icons=true&locale=en" alt="ctih1" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctih1&" alt="ctih1" /></p>
 </div>
