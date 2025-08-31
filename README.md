@@ -11,6 +11,7 @@
 * [frii.site-backend](https://api.frii.site/docs)
 * [frii.site-guides](https://guides.frii.site)
 * [mp4.fi](https://mp4.fi)
+* [URL-Lengthener](https://hereissomeinterstinginformationaboutatown.locatedineasternpolandwhichhasarichhistoryandlovelypeopleliving.kazimierz-dolny.pl/)
 
 Self hosted (last updated: 31/8/2025):
 * [Codely](https://codely.frii.site)
