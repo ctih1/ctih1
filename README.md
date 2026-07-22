@@ -6,24 +6,13 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctih1&" alt="ctih1" /></p>
 </div>
 
-# Some projects that are on the web:
-* [frii.site-frontend](https://www.frii.site)
-* [frii.site-backend](https://api.frii.site/docs)
-* [frii.site-guides](https://guides.frii.site)
-* [mp4.fi](https://mp4.fi)
-* [URL-Lengthener](https://hereissomeinterstinginformationaboutatown.locatedineasternpolandwhichhasarichhistoryandlovelypeopleliving.kazimierz-dolny.pl/)
+## Archive of some of the things I've worked on
 
-Self hosted (last updated: 31/8/2025):
-* [Codely](https://codely.frii.site)
-* [songrecommendations](https://songrecommendations.frii.site)
-* [KAVI API](https://kavi.frii.site)
-* [goober-sync-hub](https://github.com/ctih1/goober-sync-hub) (ws://goober.frii.site)
+https://archive.ctih1.fi
 
-## Some other cool projects that aren't on the web
-* https://github.com/ctih1/frii.site-bucket
-* https://github.com/ctih1/chatgpt-export-analyzer
-* https://github.com/ctih1/frii.site-app
-* https://github.com/ctih1/YabaiSpaceAddition
-* https://github.com/ctih1/fitness-tracker
-* https://github.com/ctih1/Momera
-* https://github.com/ctih1/Jellyfin-Audio-Organizer
+## Consider donating if you found some of my stuff interesting.
+BTC: bc1qgv8vt3583dfcq50x8kqdl7jjpj6g8efmra48la
+
+ETH: 0x18c2440d14Fbd5d9F01F68445963f24ACD8e1b1b
+
+Ko-Fi: https://ko-fi.com/ctih1
